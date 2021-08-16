@@ -1,0 +1,18 @@
+
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ŽèÒòúÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(„–Æßùÿÿÿÿ
+m
+java:S1104	"WMake ContentPane a static final constant or non-public and provide accessors if needed.(¢£áæ
+k	java:S116	"VRename this field "ContentPane" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢£áæ
+u	java:S116"[Rename this field "ButtonDeleteWish" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( ÒÝºùÿÿÿÿ
+s	java:S116"YRename this field "ButtonAddDrink" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ðÊŒöýÿÿÿÿ
+Q
+java:S1068"6Remove this unused "textFieldDrinkName" private field.(üèÅÔüÿÿÿÿ
+S
+java:S1068"8Remove this unused "textFieldBottlePrice" private field.(¤ÉÆ¢úÿÿÿÿ
+R
+java:S1068"7Remove this unused "textFieldPackAmount" private field.(öÄ³¨üÿÿÿÿ
+Q
+java:S1068"6Remove this unused "textFieldBottleVol" private field.(’è ìøÿÿÿÿ
+O
+java:S1068"4Remove this unused "ButtonDeleteWish" private field.( ÒÝºùÿÿÿÿ

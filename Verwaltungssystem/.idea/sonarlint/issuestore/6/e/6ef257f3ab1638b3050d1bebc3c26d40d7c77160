@@ -1,0 +1,17 @@
+
+S
+java:S1197"8Move the array designator from the variable to the type.(ç¶»Îüÿÿÿÿ
+S
+java:S1197"8Move the array designator from the variable to the type.(ç¶»Îüÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(îŸ—õüÿÿÿÿ
+s	java:S116"YRename this field "JPanelTemplate" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÚÃÓúÿÿÿÿ
+j	java:S116"URename this field "JPanelList" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İŠØò
+S
+java:S1197"8Move the array designator from the variable to the type.(ç¶»Îüÿÿÿÿ
+S
+java:S1197"8Move the array designator from the variable to the type.(ç¶»Îüÿÿÿÿ
+p	java:S116"VRename this field "ContentPane" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿Ğ’ üÿÿÿÿ
+S
+java:S1197"8Move the array designator from the variable to the type.(ÚÃÓúÿÿÿÿ
+g	java:S101
+"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¾äòªûÿÿÿÿ

@@ -1,0 +1,17 @@
+
+D
+java:S3740"/Provide the parametrized type for this generic.(¶Ì¹W
+J
+java:S3740"/Provide the parametrized type for this generic.(ªûÙıÿÿÿÿ
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(íÃï 
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(îŸ—õüÿÿÿÿ
+m
+java:S1104"WMake ContentPane a static final constant or non-public and provide accessors if needed.(¢£áæ
+k	java:S116"VRename this field "ContentPane" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢£áæ
+n	java:S116"TRename this field "ButtonAdd" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†Ç®²ûÿÿÿÿ
+q	java:S116"WRename this field "ButtonDelete" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Şõ¿Øùÿÿÿÿ
+j	java:S116"URename this field "ButtonEdit" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÜÄ
+œ
+java:S1186&"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¼ Òşüÿÿÿÿ
+œ
+java:S1186-"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¼ Òşüÿÿÿÿ

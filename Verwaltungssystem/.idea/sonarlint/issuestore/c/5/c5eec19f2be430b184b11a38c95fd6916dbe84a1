@@ -1,0 +1,27 @@
+
+l
+java:S1192?"JDefine a constant instead of duplicating this literal "Glas 0.5L" 3 times.(»¾Ÿ¬ûÿÿÿÿ8†Øõä.
+i
+java:S1192""GDefine a constant instead of duplicating this literal "Dummy" 20 times.(œàÂ¥úÿÿÿÿ8†Øõä.
+h
+java:S1192""FDefine a constant instead of duplicating this literal "12345" 4 times.(œàÂ¥úÿÿÿÿ8†Øõä.
+h
+java:S1192""FDefine a constant instead of duplicating this literal "MM205" 3 times.(œàÂ¥úÿÿÿÿ8†Øõä.
+l
+java:S1192&"JDefine a constant instead of duplicating this literal "?k0-6DqW" 16 times.(Ñæ¼üÿÿÿÿ8†Øõä.
+h
+java:S1192:"FDefine a constant instead of duplicating this literal "Fanta" 3 times.(çÏ”øÿÿÿÿ8†Øõä.
+o
+java:S1192?"MDefine a constant instead of duplicating this literal "Mehrweg 1.0L" 4 times.(»¾Ÿ¬ûÿÿÿÿ8†Øõä.
+r	java:S117?"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»¾Ÿ¬ûÿÿÿÿ8†Øõä.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(§èİ•úÿÿÿÿ
+l
+java:S1192#"ODefine a constant instead of duplicating this literal "user@unibw.de" 19 times.(·õèÕ8†Øõä.
+[
+java:S1197“"8Move the array designator from the variable to the type.(‹ÜÙÜüÿÿÿÿ8•è±¥´/
+F
+java:S1068")Remove this unused "bills" private field.(àéî­8•è±¥´/
+H
+java:S1068"+Remove this unused "billDb1" private field.(¹ÊÊè8•è±¥´/
+G
+java:S1068"*Remove this unused "cellar" private field.(•î‘ä8•è±¥´/

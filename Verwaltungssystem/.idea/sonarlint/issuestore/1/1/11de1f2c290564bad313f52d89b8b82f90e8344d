@@ -1,0 +1,19 @@
+
+Z
+java:S1192"FDefine a constant instead of duplicating this literal "UD205" 4 times.(³˜…Ù
+t
+java:S1488"[Immediately return this expression instead of assigning it to the temporary variable "tmp".(ªãâøÿÿÿÿ
+~
+java:S1488"cImmediately return this expression instead of assigning it to the temporary variable "drinkreturn".(ÊñË±8»ˆ³˜ã.
+{
+java:S1488"bImmediately return this expression instead of assigning it to the temporary variable "userreturn".(æóæğüÿÿÿÿ
+w
+java:S1488£"`Immediately return this expression instead of assigning it to the temporary variable "cellarTO".(£È’¸
+y
+java:S4144"YUpdate this method so that its implementation is not identical to "setDrink" on line 584.(ÔØëçûÿÿÿÿ8±ï™˜ã.
+Z
+java:S1192"FDefine a constant instead of duplicating this literal "HK200" 3 times.(µ—§
+d	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬¶§Ä
+w
+java:S1488"cImmediately return this expression instead of assigning it to the temporary variable "drinkreturn".(ÊñË±
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ìƒÀ‡üÿÿÿÿ

@@ -1,0 +1,14 @@
+
+D
+java:S3740"/Provide the parametrized type for this generic.(ñâ³A
+J
+java:S3740"/Provide the parametrized type for this generic.(ªûÙıÿÿÿÿ
+V	java:S110"<This class has 6 parents which is greater than 5 authorized.(’£ñşúÿÿÿÿ
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(’£ñşúÿÿÿÿ
+k	java:S1170"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³éŞÒøÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(îŸ—õüÿÿÿÿ
+p	java:S116"VRename this field "ContentPane" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿Ğ’ üÿÿÿÿ
+l	java:S116"WRename this field "ButtonCancel" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( ­’é
+n	java:S116"TRename this field "ButtonAdd" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†Ç®²ûÿÿÿÿ
+A
+java:S11720"&Remove these unused method parameters.(³éŞÒøÿÿÿÿ

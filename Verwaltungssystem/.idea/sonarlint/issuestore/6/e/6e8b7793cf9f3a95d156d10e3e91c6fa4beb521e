@@ -1,0 +1,50 @@
+
+V	java:S110	"<This class has 6 parents which is greater than 5 authorized.(Ó¾ôÿÿÿÿÿ
+g	java:S101	"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ó¾ôÿÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Şçà¿
+L
+java:S1128"6Remove this unused import 'javax.swing.border.Border'.(şŒ©ƒ
+p	java:S116
+"VRename this field "ContentPane" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿Ğ’ üÿÿÿÿ
+o	java:S116"ZRename this field "RadioButtonRoom" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ğ…œ¥
+t	java:S116"ZRename this field "RadioButtonName" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾Í» øÿÿÿÿ
+r	java:S116"]Rename this field "RadioButtonSurname" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ë àˆ
+z	java:S116"`Rename this field "RadioButtonAccountVal" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÕŞÑÅıÿÿÿÿ
+m	java:S116"XRename this field "RadioButtonUp" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ïô§¥
+t	java:S116"ZRename this field "RadioButtonDown" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ãÁ«†ÿÿÿÿÿ
+k	java:S116"VRename this field "CheckBoxKey" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(é‚Û
+u	java:S116"[Rename this field "CheckBoxInactive" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶‘¯øüÿÿÿÿ
+u	java:S116"[Rename this field "CheckBoxMovedOut" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰Ì¿°ıÿÿÿÿ
+r	java:S116"XRename this field "CheckBoxAdmin" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤Ê¨Öúÿÿÿÿ
+n	java:S116"YRename this field "CheckBoxAccVal" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†íûª
+v	java:S116"\Rename this field "RadioButtonBigger" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÅÊÍİıÿÿÿÿ
+q	java:S116"\Rename this field "RadioButtonSmaler" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆëÑ›
+y	java:S116"_Rename this field "JPanelFilterAccValue" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Æ³Êíùÿÿÿÿ
+p	java:S116"[Rename this field "JPanelSortOption" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦Š¤€
+l	java:S116"WRename this field "ButtonCancel" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( ­’é
+o	java:S116"URename this field "ButtonOkay" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼•—ÿøÿÿÿÿ
+I
+java:S1068"3Remove this unused "RadioButtonRoom" private field.(Ğ…œ¥
+N
+java:S1068"3Remove this unused "RadioButtonName" private field.(¾Í» øÿÿÿÿ
+L
+java:S1068"6Remove this unused "RadioButtonSurname" private field.(Ë àˆ
+T
+java:S1068"9Remove this unused "RadioButtonAccountVal" private field.(ÕŞÑÅıÿÿÿÿ
+G
+java:S1068"1Remove this unused "RadioButtonUp" private field.(Ïô§¥
+N
+java:S1068"3Remove this unused "RadioButtonDown" private field.(ãÁ«†ÿÿÿÿÿ
+E
+java:S1068"/Remove this unused "CheckBoxKey" private field.(é‚Û
+O
+java:S1068"4Remove this unused "CheckBoxInactive" private field.(¶‘¯øüÿÿÿÿ
+O
+java:S1068"4Remove this unused "CheckBoxMovedOut" private field.(‰Ì¿°ıÿÿÿÿ
+L
+java:S1068"1Remove this unused "CheckBoxAdmin" private field.(¤Ê¨Öúÿÿÿÿ
+S
+java:S1068"8Remove this unused "JPanelFilterAccValue" private field.(Æ³Êíùÿÿÿÿ
+J
+java:S1068"4Remove this unused "JPanelSortOption" private field.(¦Š¤€
+Q	java:S125)"<This block of commented-out lines of code should be removed.(²È×ı

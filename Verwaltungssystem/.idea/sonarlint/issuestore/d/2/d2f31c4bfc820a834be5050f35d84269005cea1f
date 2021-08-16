@@ -1,0 +1,26 @@
+
+J
+java:S1068"(Remove this unused "PORT" private field.(ΉΠΪΫόÿÿÿÿ8™ευδ.
+h
+java:S2259+"FA "NullPointerException" could be thrown; "registry" is nullable here.(φ»ο£ύÿÿÿÿ8™ευδ.
+j
+java:S1854,"HRemove this useless assignment to local variable "usermanagementObject".(ί‰Ψϊÿÿÿÿ8™ευδ.
+N	java:S106:"9Replace this use of System.out or System.err by a logger.(¬βλΑ
+\
+java:S1118":Add a private constructor to hide the implicit public one.(²ΙΫάÿÿÿÿÿ8™ευδ.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(§θέ•ϊÿÿÿÿ
+f
+java:S1854-"JRemove this useless assignment to local variable "cellarmanagementObject".(΄Έ8™ευδ.
+v
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(Ά‰εÿÿÿÿÿ8™ευδ.
+Z	java:S106#"9Replace this use of System.out or System.err by a logger.(…Ρψϊÿÿÿÿ8™ευδ.
+H
+java:S1172"+Remove this unused method parameter "args".(Ηµν‘8™ευδ.
+S
+java:S1854*"6Remove this useless assignment to local variable "sc".(ε‘©€8™ευδ.
+U	java:S106%"9Replace this use of System.out or System.err by a logger.(βΐΑ8™ευδ.
+W	java:S1250"<This block of commented-out lines of code should be removed.(Ω*8™ευδ.
+]	java:S125!"<This block of commented-out lines of code should be removed.(ρΐ·­ύÿÿÿÿ8™ευδ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(’Κ΄8™ευδ.
+S
+java:S18544"6Remove this useless assignment to local variable "cb".(ΛΦΘϋ8™ευδ.

@@ -1,0 +1,12 @@
+
+V	java:S110"<This class has 6 parents which is greater than 5 authorized.(ˆ‹¢îøÿÿÿÿ
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ˆ‹¢îøÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(îŸ—õüÿÿÿÿ
+l	java:S116	"WRename this field "ButtonCancel" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( ­’é
+k	java:S116
+"VRename this field "ButtonLogin" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(º‘şÛ
+p	java:S116"VRename this field "ContentPane" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿Ğ’ üÿÿÿÿ
+R
+java:S1068"7Remove this unused "textFieldCredential" private field.(Í’ÛŞûÿÿÿÿ
+L
+java:S1068"1Remove this unused "passwordField" private field.(ù¥üÁùÿÿÿÿ

@@ -1,0 +1,62 @@
+
+J
+java:S3740"/Provide the parametrized type for this generic.(’œÕÑþÿÿÿÿ
+J
+java:S3740b"/Provide the parametrized type for this generic.(Ð£ê¬úÿÿÿÿ
+K
+java:S3740‰"/Provide the parametrized type for this generic.(å÷µŽüÿÿÿÿ
+F
+java:S3740Ž"/Provide the parametrized type for this generic.(æ“Ò²
+F
+java:S3740Ž"/Provide the parametrized type for this generic.(æ“Ò²
+V	java:S110"<This class has 6 parents which is greater than 5 authorized.(½¸ÚÐûÿÿÿÿ
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(½¸ÚÐûÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(îåÝËùÿÿÿÿ
+A
+java:S5411·"*Use the primitive boolean expression here.(×¦‡È
+}
+java:S1488•"aImmediately return this expression instead of assigning it to the temporary variable "listEntry".(ìÒ‚¥ýÿÿÿÿ
+{
+java:S14502"eRemove the "mainCellarControlPanel" field and declare it as a local variable in the relevant methods.(ß¢ÔÑ
+{
+java:S14503"`Remove the "mainCellarOptions" field and declare it as a local variable in the relevant methods.(×¿é›üÿÿÿÿ
+v
+java:S14507"`Remove the "mainUserAddRemove" field and declare it as a local variable in the relevant methods.(õÀŠê
+y
+java:S14501"^Remove the "mainUserControl" field and declare it as a local variable in the relevant methods.(Û°üÆÿÿÿÿÿ
+q
+java:S14504"[Remove the "mainUserInfo" field and declare it as a local variable in the relevant methods.(ÆÔÔû
+v
+java:S14506"`Remove the "mainWishListadmin" field and declare it as a local variable in the relevant methods.(ôÈ‹Š
+z
+java:S14505"_Remove the "mainWishListuser" field and declare it as a local variable in the relevant methods.(çÂò¾øÿÿÿÿ
+p	java:S116""VRename this field "ButtonOrder" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–†¬Óýÿÿÿÿ
+r	java:S116#"XRename this field "UserBillItems" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ú©çÁûÿÿÿÿ
+t	java:S116&"ZRename this field "JScrollPaneUser" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹Á°Ãúÿÿÿÿ
+s	java:S116'"^Rename this field "JPanelCellarControl" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ï½ñ²
+x	java:S116("^Rename this field "JPanelCellarOptions" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»Ö¦Êúÿÿÿÿ
+s	java:S116)"YRename this field "JPanelUserInfo" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ðú ƒøÿÿÿÿ
+p	java:S116*"VRename this field "LabelFilter" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢¿çãþÿÿÿÿ
+t	java:S116+"ZRename this field "JPanelDrinkWish" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Á‚¹†ûÿÿÿÿ
+m	java:S116,"XRename this field "JPanelUserTab" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ú­Øš
+t	java:S116-"ZRename this field "JPanelCellarTab" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(øâÝöÿÿÿÿÿ
+s	java:S116."^Rename this field "JPanelUserAddRemove" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯óÕ¾
+P
+java:S1161a":Add the "@Override" annotation above this method signature(Ú§·§
+S	java:S106d"9Replace this use of System.out or System.err by a logger.(¬ÐË‹ùÿÿÿÿ
+T
+java:S1197Š"8Move the array designator from the variable to the type.(ð°©ûÿÿÿÿ
+R
+java:S1068!"7Remove this unused "textFieldPriceOrder" private field.(ÄˆÀŽøÿÿÿÿ
+L
+java:S1068#"1Remove this unused "UserBillItems" private field.(Ú©çÁûÿÿÿÿ
+N
+java:S1068&"3Remove this unused "JScrollPaneUser" private field.(‹Á°Ãúÿÿÿÿ
+G
+java:S1068,"1Remove this unused "JPanelUserTab" private field.(ú­Øš
+N
+java:S1068-"3Remove this unused "JPanelCellarTab" private field.(øâÝöÿÿÿÿÿ
+?
+java:S1068<")Remove this unused "count" private field.(˜ì’ˆ
+V	java:S125O"<This block of commented-out lines of code should be removed.(Ô›Œœüÿÿÿÿ
+Q	java:S125h"<This block of commented-out lines of code should be removed.(‡ÕáÄ

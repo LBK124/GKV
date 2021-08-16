@@ -1,0 +1,10 @@
+
+V	java:S110	"<This class has 6 parents which is greater than 5 authorized.(¥ï³ıüÿÿÿÿ
+g	java:S101	"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¥ï³ıüÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(îŸ—õüÿÿÿÿ
+p	java:S116"VRename this field "ContentPane" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿Ğ’ üÿÿÿÿ
+j	java:S116"URename this field "ButtonEdit" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÜÄ
+o	java:S116"URename this field "ButtonOkay" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼•—ÿøÿÿÿÿ
+l	java:S116"WRename this field "ButtonCancel" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( ­’é
+œ
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¼ Òşüÿÿÿÿ

@@ -1,0 +1,40 @@
+
+D
+java:S1168ÿ"&Return an empty array instead of null.(¥¹ï8Ñ°õóã.
+L
+java:S1066^"/Merge this if statement with the enclosing one.(ú¯·ö8¼î˜ã.
+O
+java:S1135Ä"2Complete the task associated to this TODO comment.(­ä€s8Ñ°õóã.
+R
+java:S1066¦"/Merge this if statement with the enclosing one.(å‡©´úÿÿÿÿ8Ñ°õóã.
+K
+java:S1066O"/Merge this if statement with the enclosing one.(·†Ók8¼î˜ã.
+R
+java:S1128
+"0Remove this unused import 'java.time.LocalDate'.(›‘¬èıÿÿÿÿ8Ñÿ»‡Ş.
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(Àé·‡8¼î˜ã.
+D
+java:S1168î"&Return an empty array instead of null.(¥¹ï8Ñ°õóã.
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Í§¤8Ñÿ»‡Ş.
+p
+java:S1192„"MDefine a constant instead of duplicating this literal "&T6T8fqhan!N" 3 times.(òÙÍ¸ıÿÿÿÿ8Ñ°õóã.
+Q
+java:S1066T"/Merge this if statement with the enclosing one.(Î‹Ÿêüÿÿÿÿ8¼î˜ã.
+R
+java:S1066º"/Merge this if statement with the enclosing one.(”»§”ÿÿÿÿÿ8Ñ°õóã.
+Q
+java:S1066 "/Merge this if statement with the enclosing one.(”»§”ÿÿÿÿÿ8¼î˜ã.
+Q
+java:S1066Y"/Merge this if statement with the enclosing one.(×¤Üèúÿÿÿÿ8¼î˜ã.
+t
+java:S3776H"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(Ï“äûÿÿÿÿ8¼î˜ã.
+V	java:S106Æ"9Replace this use of System.out or System.err by a logger.(¬ù™£8ËŞúã.
+Q
+java:S1066e"/Merge this if statement with the enclosing one.(˜Û×’øÿÿÿÿ8¼î˜ã.
+R
+java:S1066×"/Merge this if statement with the enclosing one.(”»§”ÿÿÿÿÿ8Ñ°õóã.
+R
+java:S1066‚"/Merge this if statement with the enclosing one.(”»§”ÿÿÿÿÿ8Ñ°õóã.
+D
+java:S1168…"&Return an empty array instead of null.(¥¹ï8Ñ°õóã.

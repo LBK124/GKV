@@ -1,0 +1,13 @@
+data
+gKVClient.Clientcommunikation
+gKVClient.LoginPackage
+gKVClient.Main
+gKVClient.MainWindow
+gKVClient.MainWindow.CellarTab
+gKVClient.MainWindow.DrinkWishList
+gKVClient.MainWindow.UserControl
+gKVClient.MainWindow.UserTab
+gKVClient.Utils
+gKVServer.aplicationlogic
+gKVServer.communication
+gKVServer.database

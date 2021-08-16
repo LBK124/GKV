@@ -1,0 +1,20 @@
+
+Q	java:S110"<This class has 6 parents which is greater than 5 authorized.(•†
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(•†
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(îŸ—õüÿÿÿÿ
+m
+java:S1104	"WMake ContentPane a static final constant or non-public and provide accessors if needed.(¢£áæ
+k	java:S116	"VRename this field "ContentPane" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢£áæ
+l	java:S116
+"WRename this field "ButtonImport" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Şìêè
+l	java:S116"WRename this field "ButtonCancel" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( ­’é
+i	java:S116"URename this field "DrinkPanes" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²‹ÒL
+l	java:S116"WRename this field "JPanelDrinks" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«çñ
+M
+java:S1197"8Move the array designator from the variable to the type.(²‹ÒL
+N
+java:S1197"8Move the array designator from the variable to the type.(¾¯¦
+S
+java:S1197'"8Move the array designator from the variable to the type.(ñÏå‘ûÿÿÿÿ
+S
+java:S1197:"8Move the array designator from the variable to the type.(ë¾¼Šşÿÿÿÿ

@@ -1,0 +1,20 @@
+
+Q	java:S110"<This class has 6 parents which is greater than 5 authorized.(ø®¡“
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ø®¡“
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(îŸ—õüÿÿÿÿ
+E
+java:S5411"*Use the primitive boolean expression here.(‡²Êşüÿÿÿÿ
+p
+java:S1450"ZRemove the "panelAttrib" field and declare it as a local variable in the relevant methods.(‰ÕÕê
+o
+java:S1450"YRemove the "panelDrink" field and declare it as a local variable in the relevant methods.(äÖåê
+o
+java:S1450"YRemove the "panelTreas" field and declare it as a local variable in the relevant methods.(÷ğ§†
+p	java:S116"VRename this field "ContentPane" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿Ğ’ üÿÿÿÿ
+t	java:S116
+"ZRename this field "ButtonOpenClose" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÚÓÌŸøÿÿÿÿ
+t	java:S116"ZRename this field "JPanelDrinkInfo" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(òÖêÕûÿÿÿÿ
+v	java:S116"aRename this field "JPanelCellarAttributes" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ü”ñ
+s	java:S116"^Rename this field "JPanelCellarTreasur" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†Ş³
+F
+java:S2387"+"state" is the name of a field in "Window".(Ë€×µüÿÿÿÿ

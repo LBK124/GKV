@@ -1,0 +1,16 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Í§¤
+‚
+java:S1450"`Remove the "acknowledgeServer" field and declare it as a local variable in the relevant methods.(‘ÇÍòûÿÿÿÿ8ÿ§‡ıã.
+O
+java:S11350"2Complete the task associated to this TODO comment.(»Ñ‰8’è±¥´/
+U	java:S1066"9Replace this use of System.out or System.err by a logger.(¬ù™£8’è±¥´/
+T
+java:S1135c"2Complete the task associated to this TODO comment.(’ŸèÒıÿÿÿÿ8’è±¥´/
+U	java:S106i"9Replace this use of System.out or System.err by a logger.(¬ù™£8’è±¥´/
+D
+java:S1168"&Return an empty array instead of null.(¥¹ï8’è±¥´/
+D
+java:S1168“"&Return an empty array instead of null.(¥¹ï8’è±¥´/
+W
+java:S1068"5Remove this unused "acknowledgeServer" private field.(‘ÇÍòûÿÿÿÿ8’è±¥´/

@@ -1,0 +1,13 @@
+
+D
+java:S3740"/Provide the parametrized type for this generic.(¶Ì¹W
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¨‰ú€ûÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(îŸ—õüÿÿÿÿ
+m
+java:S1104	"WMake ContentPane a static final constant or non-public and provide accessors if needed.(¢£áæ
+n	java:S116"TRename this field "LabelName" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(óÔàíüÿÿÿÿ
+k	java:S116	"VRename this field "ContentPane" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢£áæ
+E
+java:S1068"*Remove this unused "bottle" private field.(¾şúúÿÿÿÿ
+J
+java:S1068"/Remove this unused "orderimport" private field.(®Âôàøÿÿÿÿ

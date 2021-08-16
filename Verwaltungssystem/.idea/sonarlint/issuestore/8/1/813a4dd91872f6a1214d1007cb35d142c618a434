@@ -1,0 +1,19 @@
+
+Q	java:S110"<This class has 6 parents which is greater than 5 authorized.(ÑÜå
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÑÜå
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(îŸ—õüÿÿÿÿ
+p	java:S116"VRename this field "ContentPane" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿Ğ’ üÿÿÿÿ
+o	java:S116
+"URename this field "ButtonOkay" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼•—ÿøÿÿÿÿ
+s	java:S116"YRename this field "ButtonDownload" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ğè«ùıÿÿÿÿ
+l	java:S116"WRename this field "ButtonUpload" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äı‡¢
+j	java:S116"URename this field "ButtonShow" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ë‚Üø
+q	java:S116"WRename this field "ButtonDelete" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Şõ¿Øùÿÿÿÿ
+œ
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¼ Òşüÿÿÿÿ
+œ
+java:S1186%"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¼ Òşüÿÿÿÿ
+D
+java:S1068	")Remove this unused "tree1" private field.(Áê©½üÿÿÿÿ
+K
+java:S1068"0Remove this unused "ButtonDelete" private field.(Şõ¿Øùÿÿÿÿ

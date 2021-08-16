@@ -1,0 +1,6 @@
+
+V	java:S107"<Method has 8 parameters, which is greater than 7 authorized.(Äü÷ùùÿÿÿÿ
+Q	java:S110"<This class has 6 parents which is greater than 5 authorized.(ğÿß„
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ğÿß„
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Şçà¿
+p	java:S116	"VRename this field "ContentPane" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿Ğ’ üÿÿÿÿ
